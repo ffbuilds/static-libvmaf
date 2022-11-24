@@ -1,3 +1,4 @@
+# syntax=docker/dockerfile:1
 
 # bump: vmaf /VMAF_VERSION=([\d.]+)/ https://github.com/Netflix/vmaf.git|*
 # bump: vmaf after ./hashupdate Dockerfile VMAF $LATEST
